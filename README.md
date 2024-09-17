@@ -35,4 +35,4 @@ Welcome to **Just Art Gallery**, an online showcase of various forms of art. Thi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/just-art-gallery.git
+   git clone https://github.com/mahenoorsalat/just-Art.git
